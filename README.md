@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @loydpadgett
-- 👀 I’m interested in PowerCLI, VEEAM Backup and Replication, Ansible Core, SNMP, GIT, Networking and HA Cluster services
-- 🌱 I’m currently learning GIT, PowerCLI, nginx, vsCode
-- 💞️ I’m looking to collaborate on Powershell, Ansible Core and nginx poc's
+- 👀 I have experience with PowerCLI, VEEAM Backup and Replication, Ansible Core, SNMP, GIT, firmware
+- 👁️ I also have experience with Nagios, Nagvis, Prometheus, LAMP stack, powershell, bash, (g)awk, authentication modules
+- 🌱 I’m currently using GIT, PowerCLI, nginx, vsCode, writing authentication modules for encryption
+- 💞️ I’m looking to collaborate on Powershell, PowerCLI, Ansible Core and Nginx
+- 💌 I also have experience developing microcontrollers and building analog circuitry. 
 - 📫 How to reach me loydpadgett@gmail.com
 
 <!---
