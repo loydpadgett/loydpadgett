@@ -1,4 +1,6 @@
 ### **👋 Hi, I’m @loydpadgett**
+
+---
 #### **👀 I have experience with** 
  ### System Administration
    - **PowerCLI**
@@ -19,15 +21,17 @@
    - **aptana**
    - **secure httpd**
    - **tomcat**
+---
  ### 💞️ I’m looking to collaborate on 
    - **Powershell**
    - **PowerCLI**
    - **Ansible Core**
    - **Nginx**
+   - **microcontroller projects**
+   - **processing**
    
-- ### 💌 I also have experience developing microcontrollers and building analog circuitry
   - I'm working on my first project, it's a refrigeration sensor!
-  -  
+
 - ### 📫 How to reach me loydpadgett@gmail.com
 
 <!---
