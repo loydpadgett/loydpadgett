@@ -1,22 +1,32 @@
-- ## 👋 Hi, I’m @loydpadgett
-- ## 👀 I have experience with 
- ### Administration and Scripting
+### **👋 Hi, I’m @loydpadgett**
+#### **👀 I have experience with** 
+ ### System Administration
    - **PowerCLI**
    - **VEEAM Backup and Replication**
    - **Ansible Core** 
-   - **snmp** 
-   - **git** 
+   - **Printer Management**
+   - **bash** 
  ### Asset Monitoring   
    - **nagios**  
      - **nagvis**
      - **mk livestatus**
+   - **net-snmp tools**
+ ### Development
+   - **GIT**
+   - **vsCode**
+   - **Aptana**
+   - **httpd/apache**
+   - **
 
  ### 💞️ I’m looking to collaborate on 
    - **Powershell**
    - **PowerCLI**
    - **Ansible Core**
    - **Nginx**
-- ### 💌 I also have experience developing microcontrollers and building analog circuitry. 
+   
+- ### 💌 I also have experience developing microcontrollers and building analog circuitry
+  - I'm working on my first project, it's a refrigeration sensor!
+  -  
 - ### 📫 How to reach me loydpadgett@gmail.com
 
 <!---
