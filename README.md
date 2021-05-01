@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @loydpadgett
-- 👀 I have experience with PowerCLI, VEEAM Backup and Replication, Ansible Core, SNMP, GIT, firmware
+- ## 👋 Hi, I’m @loydpadgett
+- 👀 I have experience with 
+   - **PowerCLI 
+   - VEEAM Backup and Replication 
+   - Ansible Core 
+   - snmp 
+   - git 
+   - nagios
+   -    nagvis     
 - 👁️ I also have experience with Nagios, Nagvis, Prometheus, LAMP stack, powershell, bash, (g)awk, authentication modules
 - 🌱 I’m currently using GIT, PowerCLI, nginx, vsCode, writing authentication modules for encryption
 - 💞️ I’m looking to collaborate on Powershell, PowerCLI, Ansible Core and Nginx
