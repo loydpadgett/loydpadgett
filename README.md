@@ -2,24 +2,24 @@
 
 ---
 #### **👀 I have experience with** 
- ### System Administration
+ ### 🖥️System Administration
    - **PowerCLI**
    - **VEEAM Backup and Replication Powershell module**
    - **Ansible Core** 
    - **Printer Management**
    - **bash** 
    - **powershell**
- ### Asset Monitoring   
+ ### 🔭🖨️Asset Monitoring   
    - **nagios**  
      - **nagvis**
      - **mk livestatus**
    - **net-snmp tools**
    - **pharos uniprint**
- ### Development
-   - **git**
-   - **vsCode**
-   - **aptana**
-   - **secure httpd**
+ ### 📻Development
+   - **🩹git**
+   - **🥼vsCode**
+   - **🕸️aptana**
+   - **🔐secure httpd**
    - **tomcat**
 ---
  ### 💞️ I’m looking to collaborate on 
