@@ -20,7 +20,7 @@
    - **🥼vsCode**
    - **🕸️aptana**
    - **🔐secure httpd**
-   - **tomcat**
+   - **🐈 tomcat**
 ---
  ### 💞️ I’m looking to collaborate on 
    - **Powershell**
@@ -32,7 +32,7 @@
    
   - I'm working on my first project, it's a refrigeration sensor!
 
-- ### 📫 How to reach me loydpadgett@gmail.com
+- ### 📫 How to reach me loydpadgett@gmail.com *or* [loydpadgett@LinkedIn](https://www.linkedin.com/in/loydpadgett)
 
 <!---
 loydpadgett/loydpadgett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
