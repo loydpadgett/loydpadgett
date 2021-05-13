@@ -21,6 +21,7 @@
    - **🕸️aptana**
    - **🔐secure httpd**
    - **🐈 tomcat**
+   - **🔐 2MFA and encrypted authentication**  
 ---
  ### 💞️ I’m looking to collaborate on 
    - **Powershell**
