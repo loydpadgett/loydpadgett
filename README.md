@@ -11,11 +11,11 @@
    - **powershell**
  ### 🔭🖨️Asset Monitoring   
    - **nagios**  
-     - **nagvis**
-     - **mk livestatus**
-   - **net-snmp tools**
-   - **pharos uniprint**
- ### 📻Development
+     - 🗺️**nagvis**
+     - 🎛️**mk livestatus**
+   - 🦷**net-snmp tools**
+   - 🛂**pharos uniprint**
+ ### 🧰📻Development
    - **🩹git**
    - **🥼vsCode**
    - **🕸️aptana**
