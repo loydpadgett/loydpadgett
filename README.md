@@ -1,7 +1,7 @@
 ### **👋 Hi, I’m @loydpadgett**
 
 ---
-#### **👀 I have experience with** 
+#### **👀 I have experience with:** 
  ### 🖥️System Administration
    - **PowerCLI**
    - **VEEAM Backup and Replication Powershell module**
