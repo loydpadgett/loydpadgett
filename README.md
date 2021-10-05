@@ -19,7 +19,9 @@
      - 🗺️**nagvis layout customization**
      - 🎛️**mk livestatus**
    - 🦷**net-snmp tools / snmpwalk**
-   - 🛂**pharos uniprint**
+   - 🛂**Pharos Uniprint / Pharos scripting**
+   - 🖥️**Custom Conky Desktop Widgets**
+   - 🎱**LUA Scripting**
    
  ### 🧰📻Development
    - **🩹git**
