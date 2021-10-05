@@ -2,14 +2,18 @@
 
 ---
 #### **👀 I have experience with:** 
- ### 🖥️System Administration
-   - **PowerCLI**
+ ### 🖥️🔧🚰 System Administration
+   - **VMWare PowerCLI**
+   - **Security Baseline Provisioning managed over CI/CD**
    - **VEEAM Backup and Replication Powershell module**
-   - **Ansible Core** 
-   - **Printer Management**
-   - **bash** 
+   - **RHEL System Administration**
+   - **Ansible Core Automation**
+   - **SELinux context management**
+   - **bash administration**
+   - **Debian Buster** 
+   - **Printer Management** 
    - **powershell**
-   
+
  ### 🔭🖨️Asset Monitoring   
    - **nagios / nagios plugins**  
      - 🗺️**nagvis layout customization**
@@ -31,7 +35,8 @@
    - **Ansible Core / playbook development**
    - **Nginx networking**
    - **microcontroller projects**
-   - **processing java plugins**
+   - **Jenkins Pipeline Management**
+   - **Processing Java plugins**
 
 - ### 📫 [loydpadgett@LinkedIn](https://www.linkedin.com/in/loydpadgett)
 
