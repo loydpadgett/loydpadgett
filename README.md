@@ -15,7 +15,9 @@
    - **Printer Management** 
   
 
- ### 🔭🖨️Asset Monitoring   
+ ### 🔭🖨️Asset Monitoring  
+   - Prometheus
+   - Grafana
    - **nagios / nagios plugins**  
      - 🗺️**nagvis layout customization**
      - 🎛️**mk livestatus**
@@ -25,11 +27,11 @@
    - 🎱**LUA Scripting**
    
  ### 🧰📻Development
-   - **🩹git**
-   - **🥼vsCode**
-   - **🕸️aptana**
-   - **🔐secure httpd**
-   - **🐈 tomcat**
+   - **🩹 git**
+   - **🥼 vsCode**
+   - **🕸️ aptana**
+   - **🔐 secure httpd**
+   - **🐈 Tomcat**
    - **🔐 2MFA and encrypted authentication**  
 
  ### 💞️ I’m looking to collaborate on 
