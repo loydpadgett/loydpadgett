@@ -1,7 +1,7 @@
-### **👋 Hi, I’m @loydpadgett**
+## **👋 Hi, I’m @loydpadgett**
 
 ---
-#### **👀 I have experience with:** 
+## **👀 I have experience with:** 
  ### 🖥️🔧🚰 System Administration
    - **VMWare PowerCLI**
    - **Powershell**
@@ -12,8 +12,6 @@
    - **SELinux context management**
    - **Bash administration**
    - **Debian Buster** 
-   - **Printer Management** 
-  
 
  ### 🔭🖨️Asset Monitoring  
    - Prometheus
@@ -43,7 +41,7 @@
    - **Jenkins Pipeline Management**
    - **Processing Java plugins**
 
-- ### 📫 [loydpadgett@LinkedIn](https://www.linkedin.com/in/loydpadgett)
+### 📫 *[loydpadgett@LinkedIn](https://www.linkedin.com/in/loydpadgett)*
 
 <!---
 loydpadgett/loydpadgett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
