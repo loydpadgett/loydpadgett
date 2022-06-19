@@ -1,8 +1,8 @@
 ## **👋 Hi, I’m @loydpadgett**
 
 ---
-<!--START_SECTION:badges-->
 
+<!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
 ## **👀 I have experience with:** 
