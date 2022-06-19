@@ -5,14 +5,15 @@
 
 ## **👀 I have experience with:** 
  ### 🖥️🔧🚰 System Administration
-   - **VMWare PowerCLI**
-   - **Powershell**
-   - **Security Baseline Provisioning managed over CI/CD**
-   - **VEEAM Backup and Replication Powershell module**
    - **RHEL System Administration**
    - **Ansible Core Automation**
    - **SELinux context management**
    - **Bash administration**
+   - **VMWare PowerCLI**
+   - **Powershell**
+   - **Security Baseline Provisioning managed over CI/CD**
+   - **VEEAM Backup and Replication Powershell module**
+   
    - **Debian Buster** 
 
  ### 🔭🖨️Asset Monitoring  
