@@ -1,7 +1,8 @@
 ## **👋 Hi, I’m @loydpadgett**
-### 📛 My badges:
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
 ## **👀 I have experience with:** 
  ### 🖥️🔧🚰 System Administration
    - **VMWare PowerCLI**
