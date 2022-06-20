@@ -1,13 +1,8 @@
 name: Update badges
 
 on:
-  workflow_dispatch:
-    inputs:
-      loglevel:
-        type: choice
- 
-  #schedule:
-  #  - cron: "10 4 * * *"
+  schedule:
+  - cron: "20 19 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
