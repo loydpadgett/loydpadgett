@@ -1,10 +1,11 @@
 ## **👋 Hi, I’m @loydpadgett**
 
 <!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
 
-## **👀 I have experience with:** 
- ### 🖥️🔧🚰 System Administration
+
+<!--END_SECTION:badges-->
+## *👀 I have experience with:*
+### 🖥️🔧🚰 System Administration
  
    - **RHEL System Administration**
    - **Ansible Core Automation**
