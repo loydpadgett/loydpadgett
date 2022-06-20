@@ -3,7 +3,7 @@ name: Update badges
 on:
   schedule:
     # Runs at 11:00pm Every Day
-    - cron: "0 22 * * *"
+    - cron: "05 22 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -14,3 +14,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: lrpadget1@gmail.com
+          COMMIT_MESSAGE: "Updating my credly badges"
