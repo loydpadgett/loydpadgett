@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
+        uses: pemtajo/badge-readme@main
           CREDLY_USER:"lrpadget1@gmail.com"
