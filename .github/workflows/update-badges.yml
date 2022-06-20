@@ -11,3 +11,4 @@ jobs:
     steps:
       - name: Badges -Readme
         uses: pemtajo/badge-readme@main
+          CREDLY_USER: 'lrpadget1@gmail.com'
