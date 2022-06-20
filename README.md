@@ -8,8 +8,8 @@
 
 
 <!--END_SECTION:badges-->
-## *👀 I have experience with:*
-### 🖥️🔧🚰 System Administration
+### *👀 I have experience with:*
+### 🖥️🔧🚰 System Administration   
  
    - **RHEL System Administration**
    - **Ansible Core Automation**
