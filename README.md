@@ -1,26 +1,15 @@
 ## **👋 Hi, I’m @loydpadgett**
+👀 **I have experience with:**
 
-<!--START_SECTION:badges-->
-
-
-
-
-
-
-<!--END_SECTION:badges-->
-### *👀 I have experience with:*
-### 🖥️🔧🚰 System Administration   
+### 🖥️🔧**System Administration**   
  
-   - **RHEL System Administration**
-   - **Ansible Core Automation**
+   - **RHEL System Administration** - RHCSA certified, RH Trained
+   - **Ansible Automation Platform & Ansible Core**
    - **SELinux context management**
    - **Bash administration**
    - **VMWare PowerCLI**
-   - **Powershell**
    - **Security Baseline Provisioning managed over CI/CD**
    - **VEEAM Backup and Replication Powershell module**
-   
-   - **Debian Buster** 
 
  ### 🔭🖨️Asset Monitoring  
    - Prometheus
