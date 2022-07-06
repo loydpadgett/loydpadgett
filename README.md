@@ -1,40 +1,35 @@
 ## **👋 Hi, I’m @loydpadgett**
 👀 **I have experience with:**
 
-### 🖥️🔧**System Administration**   
- 
-   - **RHEL System Administration** - RHCSA certified, RH Trained
+## 🖥️🔧**System Administration**   
+   - **RHEL System Administration** 
+     - Red Hat Trained & RHCSA certified 
    - **Ansible Automation Platform & Ansible Core**
-   - **SELinux context management**
-   - **Bash administration**
-   - **VMWare PowerCLI**
+   - **SELinux security administration using least-privilege model.**
+   - **VMWare PowerCLI OS independent management scripts**
    - **Security Baseline Provisioning managed over CI/CD**
-   - **VEEAM Backup and Replication Powershell module**
+   - **Expertise in RHEL defensive security measures**
 
- ### 🔭🖨️Asset Monitoring  
-   - Prometheus
-   - Grafana
+ ## 🔭🖨️Asset Monitoring  
+   - Prometheus & Grafana
    - **nagios / nagios plugins**  
      - 🗺️**nagvis layout customization**
      - 🎛️**mk livestatus**
    - 🦷**net-snmp tools / snmpwalk**
-   - 🛂**Pharos Uniprint / Pharos scripting**
    - 🖥️**Custom Conky Desktop Widgets**
-   - 🎱**LUA Scripting**
-   
- ### 🧰📻Development
-   - **🩹 git**
-   - **🥼 vsCode**
-   - **🕸️ aptana**
-   - **🔐 secure httpd**
-   - **🐈 Tomcat**
+
+ ## 🧰📻Development
+   - **🩹 git, github, ansible, jenkins pipeline **
+   - **🥼 vsCode, ssh, scp, sftp**
+   - **🕸️ aptana, ldaps, php**
+   - **🔐 Apache, Tomcat, NGINX, httpd**
    - **🔐 2MFA and encrypted authentication**  
 
- ### 💞️ I’m looking to collaborate on 
-   - **Powershell / Windows management**
-   - **PowerCLI / VMWare vsphere control**
+ ## 💞️ I’m looking to collaborate on 
+   - **Powershell / Windows management Scripting**
+   - **PowerCLI / VMWare vSphere collaboration**
    - **Ansible Core / playbook development**
-   - **Nginx networking**
+   - **Nginx networking tips**
    - **microcontroller projects**
    - **Jenkins Pipeline Management**
    - **Processing Java plugins**
