@@ -11,7 +11,7 @@
    - **Expertise in RHEL defensive security measures**
 
  ## 🔭🖨️Asset Monitoring  
-   - Prometheus & Grafana
+   - **Prometheus & Grafana**
    - **nagios / nagios plugins**  
      - 🗺️**nagvis layout customization**
      - 🎛️**mk livestatus**
