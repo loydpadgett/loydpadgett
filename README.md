@@ -19,7 +19,7 @@
    - 🖥️**Custom Conky Desktop Widgets**
 
  ## 🧰📻Development
-   - **🩹 git, github, ansible, jenkins pipeline **
+   - **🩹 git, github, ansible, jenkins pipeline**
    - **🥼 vsCode, ssh, scp, sftp**
    - **🕸️ aptana, ldaps, php**
    - **🔐 Apache, Tomcat, NGINX, httpd**
