@@ -1,10 +1,9 @@
 ## **👋 Hi, I’m @loydpadgett**
-[Here](https://configure.zsa.io/moonlander/layouts/xDobo/latest/2) is my new Moonlander layout :)
 ## 👀 **I have experience with:**
 
 ## 🖥️🔧**System Administration**   
    - **RHEL System Administration** 
-     - Red Hat Trained & RHCSA certified 
+     - **Red Hat Trained & RHCSA certified** 
    - **Ansible Automation Platform & Ansible Core**
    - **SELinux security administration using least-privilege model.**
    - **VMWare PowerCLI OS independent management scripts**
