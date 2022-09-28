@@ -1,9 +1,9 @@
 ## **👋 Hi, I’m @loydpadgett**
 ## 👀 **I have experience with:**
+
 <!--START_SECTION:badges-->
-
-
 <!--END_SECTION:badges-->
+
 ## 🖥️🔧**System Administration**   
    - **RHEL System Administration** 
      - **Red Hat Trained & RHCSA certified** 
