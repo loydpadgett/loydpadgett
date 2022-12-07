@@ -1,6 +1,7 @@
 ### 🖥️🔧**System Administration**   
-   - **RHEL System Administration** 
-     - **Red Hat Trained & RHCSA certified** 
+   - **RHEL System Administration / Engineering** 
+   - **Red Hat Trained & RHCE certified**
+   - **Red Hat Trained & RHCSA certified** 
    - **SELinux security using least-privilege model.**
    - **Security baseline provisioning managed over CI/CD**
 
@@ -8,11 +9,12 @@
    - **Prometheus & Grafana**
    - **nagios / nagios plugins**  
      - 🗺️**nagvis layout customization**
-     - 🎛️**mk livestatus**
+     - 🎛️**mk livestatus, lql queries**
    - 🦷**net-snmp tools / snmpwalk**
 
  ### 🧰📻Development
-   - **🩹 git, awx, Ansible Automation Platform**
-   - **🥼 vsCode, ssh, scp, sftp**
-   - **🕸️ Aptana, ldaps, php, mysql**
-   - **🔐 Apache, Tomcat, NGINX**
+   - **🩹 git administration, awx, Ansible Automation Platform**
+   - **🥼 vsCode, ssh, 
+   - **🔐 security workflows using Red Hat Insights**
+   - **🕸️ Aptana, ldaps, mysql**
+   - **🏄 Apache, Tomcat, NGINX**
