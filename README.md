@@ -1,5 +1,4 @@
 ### 🔧 **Linux System Administration**   
-   - RHEL System Administration / Engineering
    - Red Hat Trained & RHCE certified
    - Red Hat Trained & RHCSA certified
    - SELinux security using least-privilege model
