@@ -13,7 +13,7 @@
    - 🦷 net-snmp tools / snmpwalk
 
  ### 📻 Development
-   - 🩹 git administration, awx, Ansible Automation Platform
+   - 🩹 git administration, Ansible Automation Platform
    - 🔐 security workflows using Red Hat Insights
-   - 🕸️ Aptana, ldaps, mysql
-   - 🏄 Apache, Tomcat, NGINX
+   - 🕸️ podman, k3s, kubernetes
+   - 🏄 Apache, Tomcat, NGINX security automation 
