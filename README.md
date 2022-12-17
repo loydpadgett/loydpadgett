@@ -1,4 +1,4 @@
-# I work at ❤️Jamf software as a SRE II (Site Reliability Engineer)
+## I work at ❤️[jamf software](https://jamf.com) as a SRE II (Site Reliability Engineer)
 ### 🔧 **Linux System Administration / Engineering**   
    - Red Hat Trained & RHCE certified
    - Red Hat Trained & RHCSA certified
