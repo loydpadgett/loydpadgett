@@ -8,15 +8,16 @@
 
  ### 🔭 **Asset Monitoring**
    - 🧵 Interest in data visualization combined with git standardization.
-   - 🏗️ Builds data pipelines and manages sockets.
+   - 🏗️ Builds data pipelines & documents the workflows they create. 
+   - 🧑‍🎓 Works to use data to influence efficiency in operational workflow. 
    - 🐲 Creative solutions for finding data at the right time.
    - 🗺️ Use data to find efficiency flaws / boost concurrency.
 
  ### 📻 **Development**
-   - 🩹 git administration
+   - 🩹 Git administration
    - 🗼 Ansible Automation Platform (working on certification)
    - 🔐 Continuous monitoring using Red Hat Insights
-   - 🕸️ Certified Ansible <= vers. 2.9, 
+   - 🕸️ Certified Ansible <= vers. 2.9
       - Podman
       - k3s
       - Kubernetes (Upcoming project to challenge current vsphere homelab)
