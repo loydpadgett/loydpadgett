@@ -14,6 +14,7 @@
    - 🗺️ Use data to find efficiency flaws / boost concurrency.
 
  ### 📻 **Development**
+   - 💽 minikube development / automation
    - 🩹 Git administration
    - 🗼 Ansible Automation Platform (working on certification)
    - 🔐 Continuous monitoring using Red Hat Insights
