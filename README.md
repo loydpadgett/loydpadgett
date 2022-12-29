@@ -19,12 +19,7 @@
    - 🗼 Ansible Automation Platform (working on certification)
    - 🔐 Continuous monitoring using Red Hat Insights
    - 🕸️ Certified Ansible <= vers. 2.9
-      - Podman
-      - k3s
-      - Kubernetes (Upcoming project to challenge current vsphere homelab)
-      - Minikube
-      - Kustomize
-      
+   
    - 🏄⏰ Web Server Security Management
       - Apache
       - Tomcat
