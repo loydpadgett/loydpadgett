@@ -21,13 +21,13 @@
      🔐 Continuous monitoring using Red Hat Insights
      🕸️ Certified Ansible <= vers. 2.9
      🏄 Web Server Security Management
-     😆 gawk - quickly creating filter tools.
-     🎲 jinja2 - conditional variables embedded in yaml files. 
+     😆 Gawk - quickly creating filter tools.
+     🎲 Jinja2 - conditional variables embedded in yaml files. 
    
 ## 🌲 **Database Management** 🌲
      💳 IdM Management
-     🩹 elasticsearch
-     🏣 postgresql
-     ☁️ mysql
-     💠 promql
+     🩹 Elasticsearch
+     🏣 Postgresql
+     ☁️ Mysql
+     💠 Promql
    
