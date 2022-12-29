@@ -5,7 +5,7 @@
      🎖️ Red Hat Trained & RHCSA certified
      🪖 SELinux security using least-privilege model
      🌗 RHEL security baseline provisioning managed with Continuous Monitoring 
-     Git administration, Ansible Automation Platform, Red Hat Insights
+     🚿 Git administration, Ansible Automation Platform, Red Hat Insights
 
 ## 🔭 Continuous Monitoring 🔭
      🧵 Interest in data visualization combined with git standardization.
