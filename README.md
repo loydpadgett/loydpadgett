@@ -25,9 +25,9 @@
      🎲 jinja2
    
 ## 🌲 **Database Management** 🌲
-     💳 freeIPA / IdM Management (Working on finishing IdM Course.) 
+     💳 freeIPA / IdM Management
+     🩹 elasticsearch
      🏣 postgresql
      ☁️ mysql
-     🩹 elasticsearch
      💠 promql
    
