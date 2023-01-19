@@ -3,6 +3,7 @@
 ## 🔧 **Linux System Engineering** 🔧
      🏢 Red Hat Trained & RHCE certified
      🎖️ Red Hat Trained & RHCSA certified
+     🕸️ Certified Ansible <= vers. 2.9
      🪖 SELinux security using least-privilege model
      🌗 RHEL security baseline provisioning managed with Continuous Monitoring 
      🚿 Git administration, Ansible Automation Platform, Red Hat Insights
@@ -19,15 +20,6 @@
      🩹 Git administration
      🗼 Ansible Automation Platform (working on certification)
      🔐 Continuous monitoring using Red Hat Insights
-     🕸️ Certified Ansible <= vers. 2.9
      🏄 Web Server Security Management
      😆 Gawk - quickly create filter tools.
      🎲 Jinja2 - conditional variables embedded in yaml files. 
-   
-## 🌲 **Database Management** 🌲
-     💳 IdM Management
-     🩹 Elasticsearch
-     🏣 Postgresql
-     ☁️ Mysql
-     💠 Promql
-   
