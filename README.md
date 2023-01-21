@@ -1,6 +1,6 @@
 ## I work at : ❤️ [Jamf software](https://jamf.com) ❤️ 
 
-### as a:
+###  as a:
 
 ## 🔧 **Site Reliability Engineer** 🔧
      🏢 Trained in Red Hat courses
