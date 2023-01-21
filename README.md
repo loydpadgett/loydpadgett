@@ -4,13 +4,15 @@
 
 ## 🔧 **Site Reliability Engineer** 🔧
      🏢 Trained in Red Hat courses
-          - RH134
-          - RH199
-          - RH294
-          - RH374
+          🔖 RH134
+          🔖 RH199
+          🔖 RH294
+          🔖 RH374
+          
      🎖️ Red Hat Certified
-          🔺 RHCSA
-          🔺 RHCE
+          🧧 RHCSA
+          🧧 RHCE
+          
      🗼 Ansible Automation Platform
      🪗 Red Hat Insights / Continuous Monitoring 
      🕸️ Certified Ansible developer
