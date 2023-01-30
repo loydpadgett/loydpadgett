@@ -18,8 +18,9 @@
      🌗 Security baseline provisioning
      🚿 Git administration
      
-## 🔭 Continuous Monitoring 🔭
-     🧵 Interest in data visualization combined with git standardization.
+## 🔭 Interests 🔭
+     ✍️ On-Demand documentation created with SPEED 🏃 & EFFICIENCY 🚑 through STRUCTURED 🏗️ usage of GIT.
      🏗️ Builds data pipelines & documents the workflows they create. 
      🎓 Works to use data to influence efficiency in operational workflows. 
      🗺️ Use data to find efficiency flaws / boost concurrency.
+      
