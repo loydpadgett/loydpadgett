@@ -14,7 +14,7 @@ pipeline {
             steps {
                 sh '''
                 #!/bin/bash
-                uname -a
+                cat ./README.md
                 '''
             }
         }
