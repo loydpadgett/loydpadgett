@@ -6,7 +6,7 @@ pipeline {
             steps {
                 sh '''
                 #!/bin/bash
-                ls -lR
+                ls -lR && ls -l /
                 '''
             }
         }
