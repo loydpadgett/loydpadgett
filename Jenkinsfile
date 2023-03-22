@@ -4,12 +4,18 @@ pipeline {
     stages {
         stage('list local folder contents') {
             steps {
+                sh '''
+                #!/bin/bash
                 ls -lR
+                '''
             }
         }
         stage('list proc info') {
             steps {
-                'uname -a'
+                sh '''
+                #!/bin/bash
+                uname -a
+                '''
             }
         }
     }
