@@ -7,8 +7,6 @@
           📜 RHCSA
           📜 RHCE
     
-     🎼 Kubernetes
-     📉 Helm 3
      🗼 Ansible Automation Platform
      🪗 Red Hat Insights / Continuous Monitoring 
      🕸️ Certified Ansible developer
