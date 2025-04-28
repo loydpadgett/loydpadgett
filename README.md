@@ -1,8 +1,3 @@
-## I work at : ❤️ [Jamf software](https://jamf.com) ❤️ 
-
-## as a: 🔧 **Site Reliability Engineer** 🔧
- 
-          
      🎖️ Red Hat Certified
           📜 RHCSA
           📜 RHCE
