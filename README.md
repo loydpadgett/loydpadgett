@@ -1,6 +1,6 @@
      🎖️ Red Hat Certified
-          📜 RHCSA
-          📜 RHCE
+     - 📜 RHCSA
+     - 📜 RHCE
     
      🗼 Ansible Automation Platform
      🪗 Red Hat Insights / Continuous Monitoring 
