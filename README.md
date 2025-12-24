@@ -1,10 +1,7 @@
-     🎖️ Red Hat Certified
-     - 📜 RHCSA
-     - 📜 RHCE
-    
+## 🎾 Skills
      🗼 Ansible Automation Platform
      🪗 Red Hat Insights / Continuous Monitoring 
-     🕸️ Certified Ansible developer
+     🕸️ Ansible developer
      🪖 SELinux security / least-privilege model
      🌗 Security baseline provisioning
      🚿 Git administration
